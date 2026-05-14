@@ -1,7 +1,11 @@
 BERT 기반 KMS, LLM 활용 SaaS, 배치 프로세스, 웹서버를 만들어온 7년 차 엔지니어입니다.
+
 문제해결과 문제해결에 도움이 되는것, 효율을 올리는 것을 사랑합니다.
+
 문제해결에 도움이 되는 것을 알고, 배우고, 공유하는 것도 즐깁니다. 
+
 타인의 문제 해결에도 선을 지키며, 도움을 주는 것을 아끼지 않습니다.
+
 앱 단축키 페이지를 제일 먼저 살펴보고 손으로 익히는걸 즐기며, VIM 모드를 선호합니다.(*VIM을 메인으로 쓰지는 않습니다.)
 <!--
 **rumbarum/rumbarum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
